@@ -2,7 +2,6 @@
 
 ## Funcionalidades
 
-Para incorporar algumas das funcionalidades propostas no RFC 1459, algumas funcionalidades são implementadas, sendo elas:
 
 * _NICK_: Da ao usuário a capacidade de alterar seu _nickname_. O servidor informa uma mensagem de erro se um usuário tentar usar um apelido já recebido.
 
