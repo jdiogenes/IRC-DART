@@ -1,7 +1,5 @@
 # IRC Chat
 
-Para o Laboratório 2 da matéria de Redes de Computadores (02/2018), foi solicitado a implementação de um servidor [IRC](http://www.irchelp.org/irchelp/rfc/) (*Internet Relay Chat*) simplificado.
-
 ## Funcionalidades
 
 Para incorporar algumas das funcionalidades propostas no RFC 1459, algumas funcionalidades são implementadas, sendo elas:
